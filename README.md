@@ -1,5 +1,6 @@
 # xlsm2csharp_parser
-패턴에 따른 몬스터 출현 테이블 Parser 제작. 해당 데이터를 넣으면 VBA로 parsing하여 자동으로 C#파일로 만들어준다. xml → C# 혹은 json → C# 의 작업이 필요 없게 된다.
+- 패턴에 따른 몬스터 출현 테이블 Parser 제작. 해당 데이터를 넣으면 VBA로 parsing하여 자동으로 C#파일로 만들어준다.
+- xml → C# 혹은 json → C# 의 작업이 필요 없게 된다.
 
 ```visual-basic
 Sub ExportPetDataTable()
